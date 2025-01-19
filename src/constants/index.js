@@ -239,7 +239,7 @@ import {
         },
       ],
       image: personal,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rathisanrajakrishnan/rathisanrajakrishnan.github.io",
     },
     {
       name: "Mesothelioma Diagnosis Prediction Using ML",
@@ -260,7 +260,7 @@ import {
         },
       ],
       image: meso,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rathisanrajakrishnan/mesothelioma_classification_ml",
     },
     {
       name: "Caesar Cipher Encryption Website",
@@ -281,7 +281,7 @@ import {
         },
       ],
       image: caesar,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rathisanrajakrishnan/data_encryption",
     },
     {
       name: "Password Manager with Secure PIN",
@@ -302,7 +302,7 @@ import {
         },
       ],
       image: password,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rathisanrajakrishnan/password_manager",
     },
   ];
   
