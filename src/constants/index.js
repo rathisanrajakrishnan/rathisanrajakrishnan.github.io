@@ -44,7 +44,7 @@ import {
     {
       id: "resume",
       title: "Resume",
-      link: "/public/logo.png"
+      link: "/public/resume.pdf"
     },
   ];
   
