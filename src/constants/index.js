@@ -44,7 +44,8 @@ import {
     {
       id: "resume",
       title: "Resume",
-      link: "/public/resume.pdf"
+      link: "/resume.pdf"
+      download: true
     },
   ];
   
